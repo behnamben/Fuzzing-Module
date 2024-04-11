@@ -62,7 +62,7 @@
 
 # Phase 0: What is Fuzzing
 
-Estimated Time: 2 minutes
+Estimated Time: 2minutes
 
 ## Introduction
 
